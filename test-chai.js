@@ -1,6 +1,6 @@
 const chai = require('chai');
 const expect = chai.expect;
-const nmath = require('./math');
+const math = require('./math');
 
 describe('Test chai',()=>{
     it('should compare thing by expect', ()=>{
